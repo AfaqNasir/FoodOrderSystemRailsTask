@@ -1,3 +1,5 @@
+# Food Order System Rails Task
+This is Food Ordering system for small office
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,4 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# FoodOrderSystemRailsTask
+
